@@ -170,13 +170,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 STRIPE_PUBLIC_KEY = 'pk_test_51NnABAEs6rjldLFCuGG6PV3TXdQSZDnoSyDGaITtWbxYDJgDUManl8PtxEKWmnMgZ56gsD3zVMMsBqR4Ctal7IsH00xYllY4mP'
 STRIPE_SECRET_KEY = 'sk_test_51NnABAEs6rjldLFC6PGaaJ3gjh5RMe4hFollOay6wUT7jmmB5cTGp70BMnLoOlprOyX2FsY5XYfYAidxhARaUF5N00TszocFJG'
 
-# EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-# EMAIL_HOST = 'smtp.mailgun.org'
-# EMAIL_PORT = 587
-# EMAIL_USE_TLS = True
-# EMAIL_HOST_USER = 'erkinbekovernaz@gmail.com'
-# EMAIL_HOST_PASSWORD = '75326541598Ernaz'
-# EMAIL_SSL_KEYFILE = '/System/Library/Keychains/SystemRootCertificates.keychain'
+
 #
 #
 # MAILGUN_API_KEY = 'pubkey-a78bb9eaa7d4b6543454b316820ccc96'
